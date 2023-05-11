@@ -50,9 +50,3 @@ Jangan salah memasukkan angkanya. Contoh: 1
 6. Program akan menyimpan gambar hasil transformasi di folder yang sama dengan lokasi file program .exe
 
 7. User bisa membuka gambar tersebut di foldernya dan user bisa menggunakan lagi gambar tersebut jika ingin melakukan transformasi lanjutan. (Hasil gambar transformasi memiliki format .png)
-
-========
-Lampiran
-========
-
-Contoh screenshoot demo hasil eksekusi program bisa dilihat di folder bernama "Contoh Gambar Original dan Gambar Hasil Transformasi"
